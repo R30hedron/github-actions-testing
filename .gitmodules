@@ -1,4 +1,0 @@
-[submodule "obs-studio"]
-	path = obs-studio
-	url = https://github.com/obsproject/obs-studio
-	branch = 27.2.4
